@@ -35,3 +35,12 @@ out/
 
 ### VS Code ###
 .vscode/
+.gradle/
+.idea/
+build
+gradle
+.sdkmanrc/
+gradlew
+gradlew.bat
+settings.gradle
+
